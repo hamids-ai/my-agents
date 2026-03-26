@@ -1,0 +1,26 @@
+[
+  {
+    "sender": "Morning Brew <newsletter@morningbrew.com>",
+    "subject": "Morning Brew - Tech Giants Report Earnings",
+    "receivedTime": "Tue, 14 Jan 2026 06:30:00 -0500",
+    "content": "<html><body><table><tr><td><h2>MARKETS</h2><p>Stock futures are pointing higher this morning after a strong earnings season kickoff. The S&P 500 is up 0.8% in premarket trading.</p><a href='https://example.com/markets'>Read more</a></td></tr><tr><td><h2>Big Tech Earnings Bonanza</h2><p>Apple, Microsoft, and Google parent Alphabet all reported earnings yesterday, and the results were... pretty darn good. Apple beat expectations with $124 billion in revenue, driven by strong iPhone sales in emerging markets. Microsoft's cloud division Azure grew 29% year-over-year.</p><a href='https://example.com/tech-earnings'>Full story</a></td></tr><tr><td><h2>AI Startup Raises $500M</h2><p>Anthropic competitor OpenMind has raised $500 million in a Series C round led by Sequoia Capital. The startup is building AI agents for enterprise customers and claims to have 200 paying customers.</p><a href='https://example.com/openai-funding'>Read more</a></td></tr><tr><td><h2>Fed Signals Rate Decision</h2><p>Federal Reserve Chair Jerome Powell hinted that interest rates could remain steady at the next FOMC meeting, citing cooling inflation data. Markets are pricing in a 78% chance of no change.</p><a href='https://example.com/fed'>Full coverage</a></td></tr></table></body></html>"
+  },
+  {
+    "sender": "Axios AM <newsletter@axios.com>",
+    "subject": "Axios AM: The tech earnings surprise",
+    "receivedTime": "Tue, 14 Jan 2026 07:00:00 -0500",
+    "content": "<html><body><div class='story'><h3>1 big thing: Tech earnings crush expectations</h3><p>Why it matters: The biggest tech companies just showed Wall Street they're still growing despite economic headwinds. Apple's iPhone revenue exceeded analyst estimates by $3 billion.</p><a href='https://axios.com/tech-earnings'>Go deeper</a></div><div class='story'><h3>What's happening in AI</h3><p>The AI arms race is heating up. Google announced a new version of Gemini that outperforms GPT-4 on several benchmarks. Meanwhile, Meta is reportedly working on a new AI model called Llama 4.</p><a href='https://axios.com/ai-news'>Read more</a></div><div class='story'><h3>Climate: Record temperatures continue</h3><p>2025 is on track to be the hottest year on record, with global temperatures 1.5°C above pre-industrial levels. Scientists warn that extreme weather events will become more frequent.</p><a href='https://axios.com/climate'>Full story</a></div><div class='story'><h3>Politics: Senate debates new AI bill</h3><p>The Senate is considering the AI Safety and Innovation Act, which would require companies to register large AI models with the government. Tech lobbyists are pushing back hard.</p><a href='https://axios.com/ai-bill'>More</a></div></body></html>"
+  },
+  {
+    "sender": "The Hustle <newsletter@thehustle.co>",
+    "subject": "The Hustle: Why VCs are going crazy for AI agents",
+    "receivedTime": "Tue, 14 Jan 2026 08:15:00 -0500",
+    "content": "<html><body><article><h2>The AI Agent Gold Rush</h2><p>Venture capitalists have poured $12 billion into AI agent startups in the past 6 months alone. Why? Because agents that can actually DO things (not just chat) are the next big opportunity. Companies like Anthropic, with their Claude AI, are leading the charge.</p><a href='https://thehustle.co/ai-agents'>Read the full breakdown</a></article><article><h2>Apple's Secret AR Project</h2><p>Sources say Apple is working on lightweight AR glasses that could launch in 2027. The device reportedly weighs less than 100 grams and has a 4-hour battery life. This could be bigger than the iPhone.</p><a href='https://thehustle.co/apple-ar'>More details</a></article><article><h2>The Remote Work Debate Is Over</h2><p>After years of back-and-forth, data shows that hybrid work is here to stay. 67% of companies now offer flexible work arrangements, up from 42% in 2023. Full remote is declining, but the office-only era is dead.</p><a href='https://thehustle.co/remote-work'>See the data</a></article></body></html>"
+  },
+  {
+    "sender": "Robinhood Snacks <snacks@robinhood.com>",
+    "subject": "Snacks Daily: Apple hits $4 trillion",
+    "receivedTime": "Tue, 14 Jan 2026 09:00:00 -0500",
+    "content": "<html><body><div><h2>Apple becomes first $4 trillion company</h2><p>Apple just hit a market cap of $4 trillion, making it the most valuable company in history. The milestone comes after blockbuster earnings that showed iPhone sales surging 15% in China. Tim Cook called it 'a testament to Apple's innovation.'</p><a href='https://robinhood.com/apple'>Trade AAPL</a></div><div><h2>Bitcoin breaks $100K again</h2><p>Bitcoin crossed the $100,000 mark for the second time this year, driven by institutional buying and anticipation of a Bitcoin ETF approval in Europe. Ethereum is also up 8% this week.</p><a href='https://robinhood.com/crypto'>See crypto prices</a></div><div><h2>What to watch today</h2><p>Earnings after the bell: Netflix, Tesla, and AMD. All three are expected to report strong numbers. Netflix subscriber growth and Tesla's vehicle deliveries will be the key metrics to watch.</p><a href='https://robinhood.com/earnings'>Earnings calendar</a></div></body></html>"
+  }
+]

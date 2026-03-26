@@ -1,0 +1,40 @@
+{
+  "name": "news-agent",
+  "version": "1.0.0",
+  "description": "AI-powered Gmail newsletter summarizer using Claude and MCP",
+  "main": "agent.js",
+  "type": "module",
+  "bin": {
+    "news-agent": "./agent.js"
+  },
+  "scripts": {
+    "start": "node agent.js",
+    "test": "node test-mode.js",
+    "test:no-ai": "node test-mode.js --no-ai --no-browser",
+    "test:quick": "node test-mode.js --no-ai"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "gmail",
+    "newsletter",
+    "summarizer",
+    "ai",
+    "claude",
+    "mcp",
+    "anthropic"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}

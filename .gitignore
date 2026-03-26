@@ -1,0 +1,53 @@
+# ===========================================
+# SECRETS & CREDENTIALS (NEVER COMMIT THESE)
+# ===========================================
+.env
+*.env
+.env.*
+!.env.example
+
+# Shared credentials folder (protect all except examples)
+credentials/*
+!credentials/*.example.json
+
+# OAuth tokens (generated during authentication)
+token.json
+**/token.json
+
+# ===========================================
+# DEPENDENCIES
+# ===========================================
+node_modules/
+
+# ===========================================
+# USER DATA & PREFERENCES
+# ===========================================
+# Personal preference files (contain user-specific settings)
+**/data/preferences.json
+
+# Runtime generated data
+**/data/story-history.json
+
+# ===========================================
+# GENERATED OUTPUT
+# ===========================================
+**/reports/
+*.log
+
+# ===========================================
+# OS & EDITOR FILES
+# ===========================================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# ===========================================
+# MISC
+# ===========================================
+*.tmp
+*.temp
+.cache/

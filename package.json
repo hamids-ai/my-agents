@@ -1,0 +1,17 @@
+{
+  "name": "agents",
+  "version": "1.0.0",
+  "description": "Collection of AI agents",
+  "private": true,
+  "workspaces": [
+    "news-agent",
+    "*-agent"
+  ],
+  "scripts": {
+    "news": "npm run start --workspace=news-agent",
+    "news:test": "npm run test --workspace=news-agent"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
