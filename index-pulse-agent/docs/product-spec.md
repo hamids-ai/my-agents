@@ -167,8 +167,8 @@ npm start
 
 | Scenario | Behavior |
 |----------|----------|
-| Ticker data unavailable | Display `Data unavailable` for that ticker's affected quarters |
-| No internet connection | Print an error message and exit gracefully |
+| Ticker data unavailable | Display `Error` for that ticker's affected quarters |
+| No internet connection | All quarter values show `Error`; a note at the bottom of the report explains the connection failed |
 | Market hasn't closed yet on a quarter-end date | Use the most recent available price and note it in the output |
 
 ---
