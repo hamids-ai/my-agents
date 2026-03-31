@@ -29,3 +29,11 @@
 - Fixed date comparison bug: Yahoo Finance returns timestamps at 14:30 UTC; comparisons now use calendar date strings.
 - `npm run indexpulse` produces a clean report with real YTD data.
 - **Next session — Milestone 4:** Add `.gitignore` for `reports/`, update root `README.md`, final QA pass.
+
+---
+
+## 03.31.2026 — Milestone 4
+
+- Completed **Milestone 4**: root `README.md` updated with index-pulse-agent entry and `npm run indexpulse` command.
+- QA confirmed: report file saved correctly, terminal output matches, Q1 complete with real data, Q2–Q4 N/A.
+- IndexPulse v1.0 is complete and fully functional.

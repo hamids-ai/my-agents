@@ -56,6 +56,9 @@ npm run news
 
 # Run news-agent tests (no credentials needed)
 npm run news:test
+
+# Run index-pulse-agent
+npm run indexpulse
 ```
 
 ## Available Agents
@@ -63,6 +66,7 @@ npm run news:test
 | Agent | Description | Documentation |
 |-------|-------------|---------------|
 | [news-agent](./news-agent/) | Summarizes daily newsletters from Gmail | [README](./news-agent/README.md) |
+| [index-pulse-agent](./index-pulse-agent/) | YTD quarterly performance for 8 financial indexes | [Spec](./index-pulse-agent/docs/product-spec.md) |
 
 ## Adding a New Agent
 
