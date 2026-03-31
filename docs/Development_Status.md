@@ -18,3 +18,14 @@
 - Defined 5-module file structure: `index.js`, `fetcher.js`, `calculator.js`, `formatter.js`, `writer.js`.
 - Documented `QuarterResult` data structure, quarter status logic, npm script wiring (workspace + agent), and error handling.
 - **Next session — Milestone 3:** Scaffold the agent folder (create `package.json`, `index.js`, and module stubs), install `yahoo-finance2`, wire up root npm script.
+
+---
+
+## 03.31.2026 — Milestone 3
+
+- Completed **Milestone 3**: full agent scaffolded and running end-to-end.
+- Created `index.js`, `fetcher.js`, `calculator.js`, `formatter.js`, `writer.js`, `reports/.gitkeep`.
+- Installed `yahoo-finance2` v3 (v2 was stripped-down; v3 has `historical` module).
+- Fixed date comparison bug: Yahoo Finance returns timestamps at 14:30 UTC; comparisons now use calendar date strings.
+- `npm run indexpulse` produces a clean report with real YTD data.
+- **Next session — Milestone 4:** Add `.gitignore` for `reports/`, update root `README.md`, final QA pass.

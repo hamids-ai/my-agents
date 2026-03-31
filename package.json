@@ -9,7 +9,8 @@
   ],
   "scripts": {
     "news": "npm run start --workspace=news-agent",
-    "news:test": "npm run test --workspace=news-agent"
+    "news:test": "npm run test --workspace=news-agent",
+    "indexpulse": "npm run start --workspace=index-pulse-agent"
   },
   "engines": {
     "node": ">=18.0.0"

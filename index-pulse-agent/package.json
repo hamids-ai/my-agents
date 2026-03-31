@@ -1,0 +1,17 @@
+{
+  "name": "index-pulse-agent",
+  "version": "1.0.0",
+  "description": "CLI tool to display cumulative YTD quarterly performance for key financial indexes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "yahoo-finance2": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
